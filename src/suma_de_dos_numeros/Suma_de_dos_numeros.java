@@ -16,6 +16,10 @@ public class Suma_de_dos_numeros {
    */
   public static void main(String[] args) {
     // TODO code application logic here
+    
+    int numero = 0;
+    
+    System.out.println(numero + 1);
   }
   
 }
