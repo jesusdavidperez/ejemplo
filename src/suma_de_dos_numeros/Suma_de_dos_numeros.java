@@ -20,6 +20,8 @@ public class Suma_de_dos_numeros {
     int numero = 3;
     int numero1 = 2;
     
+    int numero3 =0;
+    
     System.out.println(numero + numero1);
   }
   
